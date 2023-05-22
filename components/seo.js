@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 export default function SEO({
-  title = "LlamaCorp",
+  title = "ChainCorp",
   description = "Open and transparent solutions for the decentralized world",
   imageUrl = "https://llama-corp.com/og.png",
 }) {

@@ -10,9 +10,9 @@ export const PROJECT_ID = {
 const projects = [
   {
     id: PROJECT_ID.defiLlama,
-    title: "DeFiLlama",
+    title: "Blizzard Finance",
     description:
-      "DeFiLlama is the leading solution for decentralized finance data, used by the largest financial institutions in the world.",
+      "Blizzard is fully-permissionless DEX for trading perpetual contracts with up to 100x leverage.",
     logo: {
       src: "/assets/defillama.svg",
       width: 240,
@@ -22,21 +22,21 @@ const projects = [
   },
   {
     id: PROJECT_ID.llamaNodes,
-    title: "LlamaNodes",
+    title: "ChainNodes",
     description:
-      "LlamaNodes offers fast and secure access to the blockchain. Robust, private, and open-source: LlamaNodes does Web3 infrastructure the crypto way.",
+      "ChainNodes offers fast and secure access to the blockchain. Robust, private, and open-source: ChainNodes does Web3 infrastructure the crypto way. ",
     logo: {
       src: "/assets/llamanodes.svg",
       width: 270,
       height: 60,
     },
-    href: "https://llamanodes.com",
+    href: "https://chain.super.site",
   },
   {
     id: PROJECT_ID.dlNews,
-    title: "DLNews",
+    title: "Cred3",
     description:
-      "DLNews is a news organisation that provides original, in-depth reporting on cryptocurrency and decentralised finance.",
+      "Cred3 is a news organisation that provides original, in-depth reporting on cryptocurrency and decentralised finance.",
     logo: {
       src: "/assets/dlnews.svg",
       width: 270,
@@ -46,40 +46,40 @@ const projects = [
   },
   {
     id: PROJECT_ID.llamaFolio,
-    title: "LlamaFolio",
+    title: "TheSlowPatrol",
     description:
-      "LlamaFolio is an open and transparent wallet analytics tool and portfolio tracker. Coming soon.",
+      "A limited NFT collection of 8888 Sloth NFTs—unique digital collectibles living on the Solana blockchain. Your Sloths can breed, fuse and evolve into Mega Sloths.",
     logo: {
       src: "/assets/llamafolio.svg",
       width: 220,
       height: 60,
     },
-    href: "https://llamafolio.com/",
+    href: "https://www.theslowpatrol.com/",
   },
-  {
-    id: PROJECT_ID.chainList,
-    title: "ChainList",
-    description:
-      "Chainlist is a list of crypto networks and RPCs to facilitate the usage of EVM compatible blockchains.",
-    logo: {
-      src: "/assets/chainlist.svg",
-      width: 200,
-      height: 60,
-    },
-    href: "https://chainlist.org/",
-  },
-  {
-    id: PROJECT_ID.llamaPay,
-    title: "LlamaPay",
-    description:
-      "LlamaPay is a non-custodial solution to automate recurring payments like salaries for crypto companies.",
-    logo: {
-      src: "/assets/llamapay.svg",
-      width: 220,
-      height: 60,
-    },
-    href: "https://llamapay.io/"
-  },
+  // {
+  //   id: PROJECT_ID.chainList,
+  //   title: "ChainList",
+  //   description:
+  //     "Chainlist is a list of crypto networks and RPCs to facilitate the usage of EVM compatible blockchains.",
+  //   logo: {
+  //     src: "/assets/chainlist.svg",
+  //     width: 200,
+  //     height: 60,
+  //   },
+  //   href: "https://chainlist.org/",
+  // },
+  // {
+  //   id: PROJECT_ID.llamaPay,
+  //   title: "LlamaPay",
+  //   description:
+  //     "LlamaPay is a non-custodial solution to automate recurring payments like salaries for crypto companies.",
+  //   logo: {
+  //     src: "/assets/llamapay.svg",
+  //     width: 220,
+  //     height: 60,
+  //   },
+  //   href: "https://llamapay.io/"
+  // },
 
 ];
 
