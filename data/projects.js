@@ -14,11 +14,11 @@ const projects = [
     description:
       "Blizzard is fully-permissionless DEX for trading perpetual contracts with up to 100x leverage.",
     logo: {
-      src: "/assets/defillama.svg",
+      src: "/assets/blizzard.png",
       width: 240,
       height: 60,
     },
-    href: "https://defillama.com",
+    href: "https://solana.com/grizzlython/projects/blizzard",
   },
   {
     id: PROJECT_ID.llamaNodes,
@@ -26,7 +26,7 @@ const projects = [
     description:
       "ChainNodes offers fast and secure access to the blockchain. Robust, private, and open-source: ChainNodes does Web3 infrastructure the crypto way. ",
     logo: {
-      src: "/assets/llamanodes.svg",
+      src: "/assets/ChainNodes.svg",
       width: 270,
       height: 60,
     },
@@ -38,7 +38,7 @@ const projects = [
     description:
       "Cred3 allows you to create, issue, and verify digital certificates on the blockchain. Design tamper-proof digital achievements for your learners.",
     logo: {
-      src: "/assets/dlnews.svg",
+      src: "/assets/Cred3.svg",
       width: 270,
       height: 60,
     },
@@ -50,8 +50,8 @@ const projects = [
     description:
       "A limited NFT collection of 8888 Sloth NFTs—unique digital collectibles living on the Solana blockchain. Your Sloths can breed, fuse and evolve into Mega Sloths.",
     logo: {
-      src: "/assets/llamafolio.svg",
-      width: 220,
+      src: "/assets/sloths.png",
+      width: 270,
       height: 60,
     },
     href: "https://www.theslowpatrol.com/",

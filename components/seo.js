@@ -3,7 +3,7 @@ import Head from "next/head";
 export default function SEO({
   title = "ChainCorp",
   description = "Open and transparent solutions for the decentralized world",
-  imageUrl = "https://llama-corp.com/og.png",
+  imageUrl = "",
 }) {
   const windowURL =
     typeof window !== "undefined" && window.location.href

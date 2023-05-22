@@ -41,7 +41,7 @@ export function PageWrapper({ seo, children }) {
               <h2>
                 Chain Corp is a collective building out the decentralized future
                 with data analytics, payments, cross-chain and media solutions
-                used by more than 10M monthly users.
+                used by more than 1k monthly users.
               </h2>
             </div>
           </div>
