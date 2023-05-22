@@ -36,13 +36,13 @@ const projects = [
     id: PROJECT_ID.dlNews,
     title: "Cred3",
     description:
-      "Cred3 is a news organisation that provides original, in-depth reporting on cryptocurrency and decentralised finance.",
+      "Cred3 allows you to create, issue, and verify digital certificates on the blockchain. Design tamper-proof digital achievements for your learners.",
     logo: {
       src: "/assets/dlnews.svg",
       width: 270,
       height: 60,
     },
-    href: "https://dlnews.com",
+    href: "https://cred3.social",
   },
   {
     id: PROJECT_ID.llamaFolio,

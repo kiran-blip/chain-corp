@@ -7,10 +7,10 @@ export default function Contact() {
       <div className="container">
         <p className="description">
           If you want to get in touch, feel free to email us: <br />
-          contact@llama-corp.com
+          contact@chain-corp.com
         </p>
 
-        <Link href="mailto: contact@llama-corp.com">
+        <Link href="mailto: kiranjaimon@hey.com">
           <a>
             <p className="email">
               email us

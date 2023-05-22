@@ -3,9 +3,9 @@ import { Logo, Discord, Twitter, Telegram, Github } from "./icons";
 
 const mediaLinks = [
   { Icon: Twitter, href: "https://twitter.com/Kiranjaimon" },
-  { Icon: Telegram, href: "https://t.me/defillama_tg" },
-  { Icon: Discord, href: "https://discord.gg/buPFYXzDDd" },
-  { Icon: Github, href: "https://github.com/DefiLlama" },
+  { Icon: Telegram, href: "https://t.me/kjaimon" },
+  { Icon: Discord, href: "https://discord.gg" },
+  { Icon: Github, href: "https://github.com" },
 ];
 
 export default function Footer() {
@@ -38,7 +38,7 @@ export default function Footer() {
           </div> */}
 
           <div className="text-xs">
-            Copyright © Llama Corp {new Date().getFullYear()}. All rights
+            Copyright © Chain Corp {new Date().getFullYear()}. All rights
             reserved.
           </div>
         </div>
