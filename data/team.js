@@ -20,7 +20,7 @@ const team = [
     id: "0xksure",
     name: "0xksure",
     role: "Dev",
-    img: "/assets/team/QBkajFhq_400x400.jpg",
+    img: "/assets/team/0xksure.jpg",
     twitter: "https://twitter.com/0xksure",
     github: "https://github.com/0xksure",
     telegram: "https://t.me/0xksure",
