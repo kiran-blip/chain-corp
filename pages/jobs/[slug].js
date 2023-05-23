@@ -4,7 +4,7 @@ import { PageWrapper } from "../../components/layout";
 
 export default function JobPage({ title, description, content }) {
   return (
-    <PageWrapper seo={{ title: `LlamaCorp - ${title}`, description }}>
+    <PageWrapper seo={{ title: `ChainCorp - ${title}`, description }}>
       <div dangerouslySetInnerHTML={{ __html: content }} />
     </PageWrapper>
   );

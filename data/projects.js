@@ -14,8 +14,8 @@ const projects = [
     description:
       "Blizzard is fully-permissionless DEX for trading perpetual contracts with up to 100x leverage.",
     logo: {
-      src: "/assets/blizzard.png",
-      width: 240,
+      src: "/assets/blizzard.svg",
+      width: 270,
       height: 60,
     },
     href: "https://solana.com/grizzlython/projects/blizzard",
@@ -50,7 +50,7 @@ const projects = [
     description:
       "A limited NFT collection of 8888 Sloth NFTs—unique digital collectibles living on the Solana blockchain. Your Sloths can breed, fuse and evolve into Mega Sloths.",
     logo: {
-      src: "/assets/sloths.png",
+      src: "/assets/slowface.svg",
       width: 270,
       height: 60,
     },
