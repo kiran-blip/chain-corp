@@ -1,9 +1,28 @@
 export const Logo = ({ size = 16, ...props }) => (
-  <svg width={size} height={size} viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
-    <path d="M50 50H350V350H50Z" fill="#000"/>
-    <text x="-70%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#fff" font-size="420" font-family="Arial">ChainCorp</text>
+  <svg
+    width={size}
+    height={size}
+    viewBox="0 0 30 24"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+  >
+    <path
+      d="M0.736759 9.24691C0.736759 9.24691 0.674844 9.22214 0.637695 9.20976C0.662461 9.19737 0.69961 9.18499 0.724376 9.17261C0.724376 9.19737 0.736759 9.22214 0.736759 9.24691Z"
+      fill="white"
+    />
+    <text
+      dominantBaseline="middle"
+      textAnchor="middle"
+      fontSize=""
+      fontFamily="Arial, sans-serif"
+      fill="white"
+    >
+      {/* ChainCorp */}
+    </text>
   </svg>
 );
+
 
 export const ArrowRight = ({ size = 16, ...props }) => (
   <svg
