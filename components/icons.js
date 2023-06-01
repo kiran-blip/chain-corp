@@ -7,17 +7,17 @@ export const Logo = ({ size = 16, ...props }) => (
   xmlns="http://www.w3.org/2000/svg"
   {...props}
 >
-  <text
-    dominantBaseline="middle"
-    textAnchor="middle"
-    fontSize="25"
-    fontFamily="Arial, sans-serif"
-    fill="white"
-    y="12" // add y attribute to center the text vertically
-    x="-15.5"
-  >
-    ChainCorp
-  </text>
+<text
+  dominantBaseline="middle"
+  textAnchor="middle"
+  fontSize="25"
+  fontFamily="Arial, sans-serif"
+  fill="white"
+  y="12"
+  x="-7"
+>
+  Chain<tspan style={{fontWeight: 'bold', fill: 'grey'}}>CORP</tspan>
+</text>
 </svg>
 );
 
