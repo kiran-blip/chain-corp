@@ -12,11 +12,11 @@ export const Logo = ({ size = 16, ...props }) => (
   textAnchor="middle"
   fontSize="25"
   fontFamily="Arial, sans-serif"
-  fill="white"
+  fill="grey"
   y="12"
   x="-7"
 >
-  Chain<tspan style={{fontWeight: 'bold', fill: 'grey'}}>CORP</tspan>
+  ChainCORP
 </text>
 </svg>
 );
